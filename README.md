@@ -2,7 +2,7 @@
 
 # PteroStats
 
-<img alt="PteroStats Bannière" src="[https://ibb.co/gFb5xxL9]" width="400"/>
+<img alt="PteroStats Bannière" src="https://ibb.co/gFb5xxL9" width="400"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 PteroStats est une application/bot Discord conçu pour vérifier les statistiques de votre panel Pterodactyl 
 
-<img alt="PteroStats Image Preview" src="[https://ibb.co/gFb5xxL9]" width="300"/>
+<img alt="PteroStats Image Preview" src="https://ibb.co/gFb5xxL9" width="300"/>
 
 ## Installation
 
