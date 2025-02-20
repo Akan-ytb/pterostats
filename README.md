@@ -2,19 +2,19 @@
 
 # PteroStats
 
-<img alt="PteroStats Banner" src="https://ibb.co/gFb5xxL9" width="400"/>
+<img alt="PteroStats Bannière" src="https://ibb.co/gFb5xxL9" width="400"/>
 
 </div>
 
 ## Introduction
 
-PteroStats est une application/bot Discord conçu pour vérifier les statistiques du Pterodactyl ou Pelican Panel et les publier sur votre serveur Discord.
+PteroStats est une application/bot Discord conçu pour vérifier les statistiques de votre panel Pterodactyl 
 
 <img alt="PteroStats Image Preview" src="https://ibb.co/gFb5xxL9" width="300"/>
 
 ## Installation
 
-> Node.js 18 ou plus récent est requis.
+> Node.js 18 uniquement pour que le bot fonctionne correctement
 
 1. [Créez votre application/bot Discord](https://discord.com/developers/applications).
 2. [Invitez votre application/bot Discord sur votre serveur Discord](https://discordjs.guide/preparations/adding-your-bot-to-servers.html).
@@ -24,12 +24,11 @@ Activez `log_error` dans le fichier `config.yml` et vérifiez la console pour le
 
 ## Liens
 
-### Serveur d'assistance
+### Serveur Support
 
 - [Discord](https://discord.com/invite/ultimedev)
 
-### Serveur Panel Ptérodactyle et Pélican
+### Serveur Panel Pterodactyl
 
 Veuillez ne pas poser de questions sur PteroStats ici.
-- [Serveur Discord Ptérodactyle](https://discord.gg/pterodactyl)
-- [Serveur Discord Pelican](https://discord.gg/pelican-panel)
+- [Serveur Discord Pterodactyl](https://discord.gg/pterodactyl)
